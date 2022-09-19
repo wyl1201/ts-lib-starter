@@ -11,3 +11,8 @@ pnpm-lock.yaml
 
 # cache
 .eslintcache
+
+# coverage
+coverage
+
+# error
