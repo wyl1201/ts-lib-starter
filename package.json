@@ -10,7 +10,7 @@
     "preinstall": "npx only-allow pnpm",
     "dev": "tsc --watch",
     "build": "pnpm run clean && tsc",
-    "lint": "npx eslint __test__ src --ext .js,.ts --cache --fix",
+    "lint": "npx eslint __tests__ src --ext .js,.ts --cache --fix",
     "commit": "npx cz",
     "clean": "rm -rf dist",
     "test": "jest"
