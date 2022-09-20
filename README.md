@@ -1,8 +1,10 @@
 ## Title
+
 TypeScript library starter
 
 ## Description
-Integrated Jest, Eslint, Prettier, Husky, Lint-staged, Commitlint, Semantic-release, Github CI CD
+
+Integrated Jest, Eslint, Prettier, Husky, Lint-staged, Commitlint, Semantic-release, Github CI CD.
 
 ## Usage
 
