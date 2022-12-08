@@ -5,7 +5,7 @@
     /* Projects */
 
     /* Language and Environment */
-    "target": "es2016" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
+    "target": "es2017" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
     "lib": ["ESNext", "DOM"],
 
     /* Modules */
@@ -15,6 +15,7 @@
     "baseUrl": "./",
 
     /* Emit */
+    "emitDeclarationOnly": true,
     "declaration": true /* Generate .d.ts files from TypeScript and JavaScript files in your project. */,
     "sourceMap": true /* Create source map files for emitted JavaScript files. */,
     "outDir": "dist" /* Specify an output folder for all emitted files. */,
@@ -29,5 +30,5 @@
     /* Completeness */
     "skipLibCheck": true /* Skip type checking all .d.ts files. */
   },
-  "include": ["src", ".eslintrc.cjs", ".lintstagedrc.cjs", ".prettierrc.cjs"]
+  "include": ["src", ".eslintrc.cjs", ".lintstagedrc.cjs", ".prettierrc.cjs", "rollup.config.js"]
 }
