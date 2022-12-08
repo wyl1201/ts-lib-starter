@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/wyl1201/ts-lib-starter/compare/v1.1.0...v1.2.0) (2022-09-20)
+
+
+### Features
+
+* complete the CI/CD workflow ([ddd78a7](https://github.com/wyl1201/ts-lib-starter/commit/ddd78a77aa64f304ad92a76960b2d11c41b5da50))
+
 # [1.1.0](https://github.com/wyl1201/ts-lib-starter/compare/v1.0.1...v1.1.0) (2022-09-20)
 
 
